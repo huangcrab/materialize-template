@@ -9,7 +9,7 @@ import "./App.css";
 
 class App extends Component {
   componentDidMount() {
-    M.AutoInit();
+    //M.AutoInit();
   }
   render() {
     return (
