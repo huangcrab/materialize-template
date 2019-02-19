@@ -6,7 +6,7 @@ import Navbar from "../mdc/Navbar";
 import Collections from "../mdc/Collections";
 import Grid from "../mdc/Grid";
 import Card from "../mdc/Card";
-import Bread from "../mdc/Breadcrumbs";
+import Bread from "../mdc/Breadcrumds";
 
 export default function Landing() {
   return (
