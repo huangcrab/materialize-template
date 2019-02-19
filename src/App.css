@@ -1,5 +1,5 @@
-.box {
-  background: #f4f4f4;
-  padding: 10px;
-  text-align: center;
+html,
+body,
+.block {
+  height: 100%;
 }
